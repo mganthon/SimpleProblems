@@ -3,7 +3,7 @@ Simple Programming Problems - Coding for Fun
 Originally found here:  https://adriann.github.io/programming_problems.html
 Text quoted below
 
-Simple Programming Problems
+# Simple Programming Problems
 
 Whenever I’m TA for a introductory CS class where students learn some programming language, I have trouble coming up with good exercises. Problems from Project Euler and the like are usually much too difficult for beginners, especially if they don’t have a strong background in mathematics.
 
@@ -13,7 +13,7 @@ I suppose they are also useful, although much easier, whenever an experienced pe
 
 This guide has been translated to Chinese by Fidel Yi. Simple Programming Problems in Chinese
 
-Elementary
+## Elementary
 
 Write a program that prints ‘Hello World’ to the screen.
 Write a program that asks the user for her name and greets her with her name.
@@ -59,7 +59,7 @@ Write a function that takes a list of strings an prints them, one per line, in a
 *********
 Write function that translates a text to Pig Latin and back. English is translated to Pig Latin by taking the first letter of every word, moving it to the end of the word and adding ‘ay’. “The quick brown fox” becomes “Hetay uickqay rownbay oxfay”.
 
-Intermediate
+## Intermediate
 
 Write a program that outputs all possibilities to put + or - or nothing between the numbers 1,2,…,9 (in this order) such that the result is 100. For example 1 + 2 + 3 - 4 + 5 + 6 + 78 + 9 = 100.
 Write a program that takes the duration of a year (in fractional days) for an imaginary planet as an input and produces a leap-year rule that minimizes the difference to the planet’s solar year.
@@ -78,7 +78,7 @@ Implement a binary heap. Once using a list as the base data structure and once b
 Implement an unbalanced binary search tree.
 Implement a balanced binary search tree of your choice. I like (a,b)-trees best.
 Compare the performance of insertion, deletion and search on your unbalanced search tree with your balanced search tree and a sorted list. Think about good input sequences. If you implemented an (a,b)-tree, think about good values of a and b.
-Advanced
+## Advanced
 
 Given two strings, write a program that efficiently finds the longest common subsequence.
 Given an array with numbers, write a program that efficiently answers queries of the form: “Which is the nearest larger value for the number at position i?”, where distance is the difference in array indices. For example in the array [1,4,3,2,5,7], the nearest larger value for 4 is 5. After linear time preprocessing you should be able to answer queries in constant time.
