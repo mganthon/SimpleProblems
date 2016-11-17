@@ -1,3 +1,5 @@
-name = raw_input("Hi, What's your name?\n")
-if name == "Alice" or name == "Bob" :
-    print("Hello, " + name + ". Nice to meet you!")
+num = input("Enter a number.\n--> ")
+sum = 0
+for i in range(1,num+1):
+    sum += i 
+print("sum: " + str(sum))
