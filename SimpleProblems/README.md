@@ -7,7 +7,7 @@ I claim no credit for these problems, I am just organizing them here for my pers
 ## Elementary
 Write a program that prints ‘Hello World’ to the screen. - Done 2016-11-16
 
-Write a program that asks the user for her name and greets her with her name.
+Write a program that asks the user for her name and greets her with her name. Done 2016-11-17
 
 Modify the previous program such that only the users Alice and Bob are greeted with their names.
 
