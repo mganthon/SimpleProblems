@@ -5,7 +5,7 @@ SOURCE: https://adriann.github.io/programming_problems.html
 I claim no credit for these problems, I am just organizing them here for my personal purposes and to track my playing with the code to solve them.  Please refer to the source document if you care about any of that or of this.
 
 ## Elementary
-Write a program that prints ‘Hello World’ to the screen.
+Write a program that prints ‘Hello World’ to the screen. - Done 2016-11-16
 
 Write a program that asks the user for her name and greets her with her name.
 
