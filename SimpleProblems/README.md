@@ -13,7 +13,7 @@ Modify the previous program such that only the users Alice and Bob are greeted w
 
 Write a program that asks the user for a number n and prints the sum of the numbers 1 to n Done 2016-11-17
 
-Modify the previous program such that only multiples of three or five are considered in the sum, e.g. 3, 5, 6, 9, 10, 12, 15 for n=17
+Modify the previous program such that only multiples of three or five are considered in the sum, e.g. 3, 5, 6, 9, 10, 12, 15 for n=17 Done 2016-11-18
 
 Write a program that asks the user for a number n and gives him the possibility to choose between computing the sum and computing the product of 1,…,n.
 
